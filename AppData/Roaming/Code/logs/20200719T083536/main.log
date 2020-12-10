@@ -1,0 +1,6 @@
+[2020-07-19 08:35:40.840] [main] [info] update#setState idle
+[2020-07-19 08:36:10.852] [main] [info] update#setState checking for updates
+[2020-07-19 08:36:10.860] [main] [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2657:21)
+    at SimpleURLLoaderWrapper.emit (events.js:203:13)
+[2020-07-19 08:36:10.861] [main] [info] update#setState idle

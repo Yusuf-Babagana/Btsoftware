@@ -1,0 +1,336 @@
+08/21/2020 15:47:51  Activity ID: cdb56387-90c6-42dd-b6fc-35a7746cefe1
+08/21/2020 15:47:51  AuthenticationInfo AccountCreation Creating an empty account with no provider or web account
+08/21/2020 15:47:51  App Version: 1.1907.3152.0
+08/21/2020 15:47:51  GetBuildLabStringAsync[1].Start[12]
+08/21/2020 15:47:51  MixedRealityService: Registered HolographicSpace.IsAvailableChanged
+08/21/2020 15:47:51  OnWindowCreated invoked.
+08/21/2020 15:47:51  OnWindowCreated[2].Start[331]
+08/21/2020 15:47:51  DeviceFamily is : windows.desktop
+08/21/2020 15:47:51  InitializeHolographicSetup[3].Start[331]
+08/21/2020 15:47:51  InitializeHolographicSetup: IsInHolographicShell[False] IsHMDConnected[False]
+08/21/2020 15:47:51  InitializeHolographicSetup[3].Stop[334]
+08/21/2020 15:47:51  DiagtrackClientBackgroundTaskHelper.CleanupPendingEsclations
+08/21/2020 15:47:51  SetTileBadge Badge[None]
+08/21/2020 15:47:51  Determine API level task waiting for UTC settings. Cached value[ApiLevel1]
+08/21/2020 15:47:51  RequestUtcDiagnosticsAndSettingsDownload[4].Start[335]
+08/21/2020 15:47:51  DownloadLatestSettingsAsync.Start[335]
+08/21/2020 15:47:51  DownloadLatestSettingsAsync.Stop[2193]
+08/21/2020 15:47:51  OndemandScenariosDownloaded On Demand UIF DiagTrack diagtrack scenarios downloaded at 8/21/2020 3:47:39 PM
+08/21/2020 15:47:51  RequestUtcDiagnosticsAndSettingsDownload[4].Stop[2200]
+08/21/2020 15:47:51  Checking the UTC API level
+08/21/2020 15:47:51  DiagtrackAPILevel[1]
+08/21/2020 15:47:51  RemoveJumpListCommand Badge[Activity]
+08/21/2020 15:47:51  Checking the pending escalation count
+08/21/2020 15:47:51  SetTileBadge Badge[None]
+08/21/2020 15:47:51  RemoveJumpListCommand Badge[Busy]
+08/21/2020 15:47:51  Awaiting task[1][Initialize.CheckAndSaveLocalLogBaseFolderPath]
+08/21/2020 15:47:51  Awaiting task[2][Initialize.DeleteUploadFolders]
+08/21/2020 15:47:51  Starting window bounds [0,40,1366,696]
+08/21/2020 15:47:51  Feedback Hub: Online[Unknown] Debugger[False] Debug[False]
+08/21/2020 15:47:51  OnWindowCreated[2].Stop[3339]
+08/21/2020 15:47:51  Items to remove [0]
+08/21/2020 15:47:51  Items to remove [0]
+08/21/2020 15:47:51  Pending escalation count [0]
+08/21/2020 15:47:51  Completing task[1][Initialize.CheckAndSaveLocalLogBaseFolderPath]
+08/21/2020 15:47:51  Completing task[2][Initialize.DeleteUploadFolders]
+08/21/2020 15:47:51  CTAC System Properties osVer=10.0.18363.959.amd64fre.19h1_release.190318-1202
+08/21/2020 15:47:51  Feedback Hub: Build[10.0.18363.959.amd64fre.19h1_release.190318-1202]
+08/21/2020 15:47:51  GetBuildLabStringAsync[1].Stop[3383]
+08/21/2020 15:47:51  PilotsHubOnLaunched, args: siuf2:/p:{"AskUserForEmail":false,"DispatchContext":-1,"DispatchType":"{e26ec85d-8fcf-4c07-b71b-d0f2e6f38bcb}","HeroImageURL":null,"MinorVersion":4,"Patch":0,"ProfileImageURL":null,"Question":{"__type":"RatingsQuestion:#FeedbackApp.SIUFModels","ExpiryTimeMilliseconds":0,"MeasureIdCustom":24023949,"QuestionId":"{c74681dd-0c3c-493b-91e3-7a59d78af680}","QuestionPriority":32,"QuestionText":"If you are involved with Windows app development, how satisfied are you with the experience?","QuestionType":"Rating","QuestionVersion":"{c74681dd-0c3c-493b-91e3-7a59d78af680}","ReAskTimeMilliseconds":0,"ToastText":null,"AnchorTextMax":"Very satisfied","AnchorTextMin":"Not satisfied enough","Ratings1FollowUpQuestion":null,"Ratings2FollowUpQuestion":null,"Ratings3FollowUpQuestion":null,"Ratings4FollowUpQuestion":null,"Ratings5FollowUpQuestion":null},"ScenarioId":0,"SurveyRequesterName":null,"Title":"Please tell us about your experience developing Windows apps","Version":3} /i:{1F59BFE5-C1B5-41FC-B05C-83FE9818FD72}, tileid: App
+08/21/2020 15:47:51  FeedbackHubLaunch; ActivationType: 'SIUF' Kind: 'Launch' AppRunning: 'False'
+08/21/2020 15:47:51  UIFActivationHandler.Initialize activation handler valid: True
+08/21/2020 15:47:51  Starting the load of the apps inventory file cache
+08/21/2020 15:47:51  Creating the shell with the splash screen up. PrevState[NotRunning] Shell[False]
+08/21/2020 15:47:51  Creating shell host
+08/21/2020 15:47:51  Adding new Shell to Tracked WindowModel management from Shell constructor.
+08/21/2020 15:47:51  Initialize.Shell[5].Start[3446]
+08/21/2020 15:47:51  Initialize.Shell[5].Stop[3726]
+08/21/2020 15:47:51  HandleFirstActivation[6].Start[3736]
+08/21/2020 15:47:51  DiagnosticsDataLoadFromCache[7].Start[3784]
+08/21/2020 15:47:51  Awaiting task[3][HandleFirstActivation.LoadDiagCacheFirstActivation]
+08/21/2020 15:47:51  Diagtrack background task already registered
+08/21/2020 15:47:51  RefreshNetworkConnection.Start[3842]
+08/21/2020 15:47:51  Refreshing network status - Initialized[True]
+08/21/2020 15:47:51  NetworkStatus: Profile[True] Level[InternetAccess]
+08/21/2020 15:47:51  Current network status - Connected
+08/21/2020 15:47:51  RefreshNetworkConnection.Stop[3962]
+08/21/2020 15:47:51  IsKnownActivationType [True]
+08/21/2020 15:47:51  Device[Desktop] Auth[False] Network[True] Settings[False] Tent[False-NoTentInfo] HasRanChecks[False] RS4+[False]
+08/21/2020 15:47:51  GetStartupState [None]
+08/21/2020 15:47:51  IsRestrictedStartupState[False] State[None]
+08/21/2020 15:47:51  Categories - Checking for content in memory HasContent[False]
+08/21/2020 15:47:51  LoadDataAsync.CategoriesViewModel[8].Start[4574]
+08/21/2020 15:47:51  Loading CategoriesViewModel based on network status[Connected] strategy[LoadFromCacheBackgroundDownload]
+08/21/2020 15:47:51  CategoriesViewModel: Loading data from persistence store. InitialContent[False]
+08/21/2020 15:47:51  Custom Fields - Checking for content in memory HasContent[False]
+08/21/2020 15:47:51  LoadDataAsync.CustomFieldsViewModel[9].Start[5052]
+08/21/2020 15:47:51  Loading CustomFieldsViewModel based on network status[Connected] strategy[LoadFromCacheBackgroundDownload]
+08/21/2020 15:47:51  CustomFieldsViewModel: Loading data from persistence store. InitialContent[False]
+08/21/2020 15:47:51  DetermineDestinationPage: Resetting the navigation bar items
+08/21/2020 15:47:51  GetNavPageItems: Device[Desktop]
+08/21/2020 15:47:51  GetNavPageItems: Insider[False] Internal[False] Authenticated[False] Tent[False] Network[True]
+08/21/2020 15:47:51  Reg[0]-Tab[Home]-Page[Home]
+08/21/2020 15:47:51  Reg[1]-Tab[Feedback]-Page[FeedbackSearch]
+08/21/2020 15:47:51  Reg[2]-Tab[Feedback]-Page[FeedbackRestricted]
+08/21/2020 15:47:51  Reg[3]-Tab[AdvancedDiagnostics]-Page[AdvancedDiagnostics]
+08/21/2020 15:47:51  Reg[4]-Tab[Settings]-Page[Settings]
+08/21/2020 15:47:51  Reg[5]-Tab[Feedback]-Page[FeedbackDetails]
+08/21/2020 15:47:51  Reg[6]-Tab[Feedback]-Page[FeedbackNew]
+08/21/2020 15:47:51  Reg[7]-Tab[None]-Page[SiufMainView]
+08/21/2020 15:47:51  InitializeNavigationActionsAndStartingState.Start[5552]
+08/21/2020 15:47:51  InitializeNavigationActionsAndStartingState.Stop[5552]
+08/21/2020 15:47:51  ShellVM: Added 2 nav bar items
+08/21/2020 15:47:51  NavigateToActivationPage: Resetting the navigation bar items
+08/21/2020 15:47:51  GetNavPageItems: Device[Desktop]
+08/21/2020 15:47:51  GetNavPageItems: Insider[False] Internal[False] Authenticated[False] Tent[False] Network[True]
+08/21/2020 15:47:51  Reg[0]-Tab[Home]-Page[Home]
+08/21/2020 15:47:51  Reg[1]-Tab[Feedback]-Page[FeedbackSearch]
+08/21/2020 15:47:51  Reg[2]-Tab[Feedback]-Page[FeedbackRestricted]
+08/21/2020 15:47:51  Reg[3]-Tab[AdvancedDiagnostics]-Page[AdvancedDiagnostics]
+08/21/2020 15:47:51  Reg[4]-Tab[Settings]-Page[Settings]
+08/21/2020 15:47:51  Reg[5]-Tab[Feedback]-Page[FeedbackDetails]
+08/21/2020 15:47:51  Reg[6]-Tab[Feedback]-Page[FeedbackNew]
+08/21/2020 15:47:51  Reg[7]-Tab[None]-Page[SiufMainView]
+08/21/2020 15:47:51  InitializeNavigationActionsAndStartingState.Start[5561]
+08/21/2020 15:47:51  InitializeNavigationActionsAndStartingState.Stop[5561]
+08/21/2020 15:47:51  ShellVM: Added 2 nav bar items
+08/21/2020 15:47:51  Device[Desktop] Auth[False] Network[True] Settings[False] Tent[False-NoTentInfo] HasRanChecks[False] RS4+[False]
+08/21/2020 15:47:51  GetStartupState [None]
+08/21/2020 15:47:51  IsRestrictedStartupState[False] State[None]
+08/21/2020 15:47:51  HandleAppActivation[10].Start[5562]
+08/21/2020 15:47:51  Siuf2 activation format.
+08/21/2020 15:47:51  NavigateToPage[11].Start[6356]
+08/21/2020 15:47:51  OnNavigatedTo.SIUF_MainView[12].Start[7107]
+08/21/2020 15:47:51  OnNavigatedTo.SIUF_MainView[12].Stop[7154]
+08/21/2020 15:47:51  RunCommandList [3]
+08/21/2020 15:47:51  LoadDataAsync.ProfileViewModel.Start[7154]
+08/21/2020 15:47:51  Awaiting task[4][LoadDataAsync.ProfileViewModel.LockAsync]
+08/21/2020 15:47:51  Completing task[4][LoadDataAsync.ProfileViewModel.LockAsync]
+08/21/2020 15:47:51  Awaiting task[5][Execute.ProfileCommand]
+08/21/2020 15:47:51  NavigateToPage[11].Stop[7181]
+08/21/2020 15:47:51  HandleAppActivation[10].Stop[7181]
+08/21/2020 15:47:51  HandleFirstActivation[6].Stop[7181]
+08/21/2020 15:47:51  Background access status [AllowedSubjectToSystemPolicy]
+08/21/2020 15:47:51  Updating the current list of display profiles [] to a new list [21]
+08/21/2020 15:47:51  CategoriesViewModel: Updating DataCache for VM from [PilotContracts.DataContracts.CategoryData] to [PilotContracts.DataContracts.CategoryData]
+08/21/2020 15:47:51  CategoriesViewModel: Updating data in the view
+08/21/2020 15:47:51  OnDataLoadedAsync.Start[7857]
+08/21/2020 15:47:51  LoadAllAppsWorkerAsync[13].Start[8263]
+08/21/2020 15:47:51  GetInstalledModernApps.Start[8281]
+08/21/2020 15:47:51  App inventory cache load task still pending. Awaiting it now
+08/21/2020 15:47:51  CustomFieldsViewModel: Updating DataCache for VM from [PilotContracts.DataContracts.Feedback.CustomFieldsData] to [PilotContracts.DataContracts.Feedback.CustomFieldsData]
+08/21/2020 15:47:51  CustomFieldsViewModel: Updating data in the view
+08/21/2020 15:47:51  CustomFieldsViewModel: Successfully refreshed data
+08/21/2020 15:47:51  CustomFieldsViewModel: Downloading network data async in background
+08/21/2020 15:47:51  NetworkLoad.CustomFieldsViewModel[14].Start[8332]
+08/21/2020 15:47:51  GetCustomFieldsMapping.Start[8383]
+08/21/2020 15:47:51  Calling Service for CustomFields mapping on 1 for authentication True
+08/21/2020 15:47:51  Finished loading CustomFieldsViewModel based result - Complete
+08/21/2020 15:47:51  LoadDataAsync.CustomFieldsViewModel[9].Stop[9642]
+08/21/2020 15:47:51  GetAsync.ScenarioId[c74681dd-0c3c-493b-91e3-7a59d78af680].Start[9642]
+08/21/2020 15:47:51  ProfileViewModel: Load data mutex obtained, waiting for load
+08/21/2020 15:47:51  ProfileViewModel: Not going to load data because data refresh condition was not met
+08/21/2020 15:47:51  Awaiting task[6][LoadDataAsync.ProfileViewModel.LoadDataAsync]
+08/21/2020 15:47:51  Completing task[6][LoadDataAsync.ProfileViewModel.LoadDataAsync]
+08/21/2020 15:47:51  Checking for the apps list
+08/21/2020 15:47:51  GetInstalledModernApps.Stop[9968]
+08/21/2020 15:47:51  GetRunningApps.Start[9968]
+08/21/2020 15:47:51  Local cached copy not found for scenarioid: c74681dd-0c3c-493b-91e3-7a59d78af680, System.IO.FileNotFoundException: The system cannot find the file specified. (Exception from HRESULT: 0x80070002)
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw() + 0x21
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task) + 0x70
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task) + 0x38
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task) + 0x17
+   at PilotsHubApp.SIUFViewModels.SiufCacheManager.<GetFileAsync>d__15.MoveNext() + 0xd1
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw() + 0x21
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task) + 0x70
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task) + 0x38
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task) + 0x17
+   at PilotsHubApp.SIUFViewModels.SiufCacheManager.<GetAsync>d__14.MoveNext() + 0x166
+
+08/21/2020 15:47:51  GetAsync.ScenarioId[c74681dd-0c3c-493b-91e3-7a59d78af680].Stop[12549]
+08/21/2020 15:47:51  GetRunningApps.Stop[12759]
+08/21/2020 15:47:51  GetInstalledLegacyApps.Start[12787]
+08/21/2020 15:47:51  GetInstalledLegacyApps.Stop[12787]
+08/21/2020 15:47:51  GetInstalledModernApps.Start[12787]
+08/21/2020 15:47:51  GetInstalledModernApps.Stop[12787]
+08/21/2020 15:47:51  GetInstalledDesktopApps.Start[12788]
+08/21/2020 15:47:51  GetInstalledDesktopApps.Stop[12788]
+08/21/2020 15:47:51  LoadAllAppsWorkerAsync[13].Stop[12829]
+08/21/2020 15:47:51  RefreshAllCategoryLists.Start[13157]
+08/21/2020 15:47:51  RefreshAllCategoryLists: Starting to track pending work
+08/21/2020 15:47:51  DeviceEnums [3]
+08/21/2020 15:47:51  RefreshAllCategoryLists: Waiting for pending work to complete. Count[0]
+08/21/2020 15:47:51  OnCategoryListsChanged.AllFeedback.Start[13407]
+08/21/2020 15:47:51  OnCategoryListLoaded.AllFeedback.Start[13407]
+08/21/2020 15:47:51  OnCategoryListLoaded.AllFeedback.Stop[13407]
+08/21/2020 15:47:51  OnCategoryListsChanged.AllFeedback.Stop[13407]
+08/21/2020 15:47:51  RefreshAllCategoryLists.Stop[13407]
+08/21/2020 15:47:51  RefreshAllCategoryLists.Start[13409]
+08/21/2020 15:47:51  RefreshAllCategoryLists: Starting to track pending work
+08/21/2020 15:47:51  RefreshAllCategoryLists: Waiting for pending work to complete. Count[0]
+08/21/2020 15:47:51  OnCategoryListsChanged.MyFeedback.Start[13409]
+08/21/2020 15:47:51  OnCategoryListLoaded.MyFeedback.Start[13409]
+08/21/2020 15:47:51  OnCategoryListLoaded.MyFeedback.Stop[13409]
+08/21/2020 15:47:51  OnCategoryListsChanged.MyFeedback.Stop[13409]
+08/21/2020 15:47:51  RefreshAllCategoryLists.Stop[13409]
+08/21/2020 15:47:51  OnDataLoadedAsync.Stop[13409]
+08/21/2020 15:47:51  CategoriesViewModel: Successfully refreshed data
+08/21/2020 15:47:51  CategoriesViewModel: Downloading network data async in background
+08/21/2020 15:47:51  NetworkLoad.CategoriesViewModel[15].Start[13409]
+08/21/2020 15:47:51  NetworkLoadAsync.CategoriesDownload[16].Start[13409]
+08/21/2020 15:47:51  DiagnosticsDataNetworkDownload[17].Start[13409]
+08/21/2020 15:47:51  RequestUtcDiagnosticsAndSettingsDownload[18].Start[13410]
+08/21/2020 15:47:51  DownloadLatestSettingsAsync.Start[13410]
+08/21/2020 15:47:51  Finished loading CategoriesViewModel based result - Complete
+08/21/2020 15:47:51  LoadDataAsync.CategoriesViewModel[8].Stop[13471]
+08/21/2020 15:47:51  LoadDataAsync.ProfileViewModel.Stop[13548]
+08/21/2020 15:47:51  [BkgDiag] Restored [] scenarios from disk
+08/21/2020 15:47:51  [BgTask] Checking if DiagtrackClientBackgroundTask task is registered
+08/21/2020 15:47:51  Completing task[5][Execute.ProfileCommand]
+08/21/2020 15:47:51  [BgTask] Found DiagtrackClientBackgroundTask task is already registered
+08/21/2020 15:47:51  Device[Desktop] Auth[False] Network[True] Settings[False] Tent[False-NoTentInfo] HasRanChecks[False] RS4+[False]
+08/21/2020 15:47:51  GetStartupState [None]
+08/21/2020 15:47:51  ContentPage_Loaded.SIUF_MainView.Start[13662]
+08/21/2020 15:47:51  StartupReport - AppStartTime[13663] GetBuildLabStringAsync:3371,OnWindowCreated:3008,InitializeHolographicSetup:0,RequestUtcDiagnosticsAndSettingsDownload:1865,Initialize.Shell:280,HandleFirstActivation:3445,LoadDataAsync.CategoriesViewModel:8897,LoadDataAsync.CustomFieldsViewModel:4590,HandleAppActivation:1619,NavigateToPage:824,OnNavigatedTo.SIUF_MainView:46,LoadAllAppsWorkerAsync:4567,
+08/21/2020 15:47:51  ContentPage_Loaded.SIUF_MainView.Stop[13755]
+08/21/2020 15:47:51  InsidersHubNavigationInfo, SIUF_MainView
+08/21/2020 15:47:52  Beginning startup work for [VerifyGeolocationRestrictionsTask]
+08/21/2020 15:47:52  VerifyGeolocationRestrictionsTask.PerformWork
+08/21/2020 15:47:52  GetFeedbackRestrictionStatus[19].Start[14313]
+08/21/2020 15:47:52  DownloadLatestSettingsAsync.Stop[14897]
+08/21/2020 15:47:52  OndemandScenariosDownloaded On Demand UIF DiagTrack diagtrack scenarios downloaded at 8/21/2020 3:47:52 PM
+08/21/2020 15:47:52  RequestUtcDiagnosticsAndSettingsDownload[18].Stop[14900]
+08/21/2020 15:47:53  SiufDownloadElapsedTime.ScenarioId[c74681dd-0c3c-493b-91e3-7a59d78af680].Locale[en-US] Elapsed MS [2822]
+08/21/2020 15:47:53  Failed to initialize SIUF_MainViewModel, FeedbackHub.ErrorHandling.ContentNotFoundException: Unable to download SIUF payload for scenarioid: c74681dd-0c3c-493b-91e3-7a59d78af680. The SIUF has either been terminated or not available yet in your language. Got response {"RefreshInterval":"792","QueryUrl":"/settings/v2.0/Siuf/en-US","Settings":null}
+   at PilotsHubApp.ViewModel.Common.SIUF_CachingViewModel.<GetSiufPayloadAsync>d__15.MoveNext() + 0x123
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw() + 0x21
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task) + 0x70
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task) + 0x38
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task) + 0x17
+   at FeedbackApp.SIUFViewModels.SIUF_MainViewModel.<GetSiufPayloadFromCacheOrNetworkAsync>d__11.MoveNext() + 0x118
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw() + 0x21
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task) + 0x70
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task) + 0x38
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task) + 0x17
+   at FeedbackApp.SIUFViewModels.SIUF_MainViewModel.<OnNavigatedToAsync>d__10.MoveNext() + 0x3e7
+
+08/21/2020 15:47:53  NavigateToPage[20].Start[15985]
+08/21/2020 15:47:54  OnNavigatedTo.SIUF_ErrorPage[21].Start[16265]
+08/21/2020 15:47:54  OnNavigatedTo.SIUF_ErrorPage[21].Stop[16266]
+08/21/2020 15:47:54  RunCommandList [2]
+08/21/2020 15:47:54  NavigateToPage[20].Stop[16292]
+08/21/2020 15:47:54  FeedbackMonitoringSubmit: Msg[DiagnosticsDataLoadFromCache] DiagnosticsSavedLocally Prev[False-0] Next[True-717]
+08/21/2020 15:47:54  DiagnosticsDataLoadFromCache[7].Stop[16639]
+08/21/2020 15:47:54  Completing task[3][HandleFirstActivation.LoadDiagCacheFirstActivation]
+08/21/2020 15:47:54  ContentPage_Loaded.SIUF_ErrorPage.Start[17190]
+08/21/2020 15:47:54  ContentPage_Loaded.SIUF_ErrorPage.Stop[17190]
+08/21/2020 15:47:54  InsidersHubNavigationInfo, SIUF_ErrorPage
+08/21/2020 15:47:54  ContentPage_Unloaded.SIUF_MainView.Start[17464]
+08/21/2020 15:47:54  ContentPage_Unloaded.SIUF_MainView.Stop[17464]
+08/21/2020 15:47:55  GetCustomFieldsMapping.Stop[17508]
+08/21/2020 15:47:55  No mapping data for custom fields were returned by the service.
+08/21/2020 15:47:55  PersistToDiskAsync.QuestionsMapping.json.Start[17556]
+08/21/2020 15:47:55  GetFeedbackRestrictionStatus[19].Stop[17557]
+08/21/2020 15:47:55  Beginning startup work for [RequireAuthenticationTask]
+08/21/2020 15:47:55  RequireAuthenticationTask.PerformWork
+08/21/2020 15:47:55  Client settings [OnDemandDiag[True] RequireAuth[False] MaxScenarios[4] MaxCategories[3] LastUpdate[1/10/2020 5:01:53 PM]] IsAuth[False]
+08/21/2020 15:47:55  Beginning startup work for [AppPreviewProgramTask]
+08/21/2020 15:47:55  Beginning startup work for [LoadDraftsAsync]
+08/21/2020 15:47:55  LoadDraftsAsync.PerformWork
+08/21/2020 15:47:55  LoadDraftsAsync called Task[False]
+08/21/2020 15:47:55  LoadDrafts[22].Start[18020]
+08/21/2020 15:47:56  PersistToDiskAsync.QuestionsMapping.json.Stop[18486]
+08/21/2020 15:47:56  NetworkLoad.CustomFieldsViewModel[14].Stop[18486]
+08/21/2020 15:47:56  Drafts[0] found on disk
+08/21/2020 15:47:56  FeedbackHubInteraction: Tab[Feedback] Interaction[DraftsLoaded] Operation[None] DraftCount[0]
+08/21/2020 15:47:56  LoadDrafts[22].Stop[18543]
+08/21/2020 15:48:04  Updating the current list of display profiles [21] to a new list [21]
+08/21/2020 15:48:04  NetworkLoadAsync.CategoriesDownload[16].Stop[26333]
+08/21/2020 15:48:04  PersistToDiskAsync.FeedbackCategories.json.Start[26334]
+08/21/2020 15:48:04  Updating the current list of diagnostics Traces[7] Diag[717] to a new list Trace[7] Diag[723]
+08/21/2020 15:48:05  PersistToDiskAsync.FeedbackCategories.json.Stop[27297]
+08/21/2020 15:48:05  OnDataLoadedAsync.Start[27297]
+08/21/2020 15:48:05  LoadAllAppsWorkerAsync[23].Start[27299]
+08/21/2020 15:48:05  GetInstalledModernApps.Start[27299]
+08/21/2020 15:48:05  GetInstalledModernApps.Stop[27299]
+08/21/2020 15:48:05  GetRunningApps.Start[27299]
+08/21/2020 15:48:05  GetRunningApps.Stop[27370]
+08/21/2020 15:48:05  GetInstalledLegacyApps.Start[27371]
+08/21/2020 15:48:05  GetInstalledLegacyApps.Stop[27371]
+08/21/2020 15:48:05  GetInstalledModernApps.Start[27371]
+08/21/2020 15:48:05  GetInstalledModernApps.Stop[27372]
+08/21/2020 15:48:05  GetInstalledDesktopApps.Start[27372]
+08/21/2020 15:48:05  GetInstalledDesktopApps.Stop[27372]
+08/21/2020 15:48:05  LoadAllAppsWorkerAsync[23].Stop[27374]
+08/21/2020 15:48:05  RefreshAllCategoryLists.Start[27374]
+08/21/2020 15:48:05  RefreshAllCategoryLists: Starting to track pending work
+08/21/2020 15:48:05  SelectedL1Category: Adding pending work to complete. Count[0]
+08/21/2020 15:48:05  RefreshAllCategoryLists: Waiting for pending work to complete. Count[1]
+08/21/2020 15:48:05  OnCategoryListsChanged.AllFeedback.Start[27375]
+08/21/2020 15:48:05  OnCategoryListsChanged.AllFeedback.Stop[27375]
+08/21/2020 15:48:05  RefreshAllCategoryLists.Stop[27375]
+08/21/2020 15:48:05  RefreshAllCategoryLists.Start[27375]
+08/21/2020 15:48:05  RefreshAllCategoryLists: Starting to track pending work
+08/21/2020 15:48:05  SelectedL1Category: Adding pending work to complete. Count[0]
+08/21/2020 15:48:05  RefreshAllCategoryLists: Waiting for pending work to complete. Count[1]
+08/21/2020 15:48:05  OnCategoryListsChanged.MyFeedback.Start[27375]
+08/21/2020 15:48:05  OnCategoryListsChanged.MyFeedback.Stop[27375]
+08/21/2020 15:48:05  RefreshAllCategoryLists.Stop[27375]
+08/21/2020 15:48:05  OnDataLoadedAsync.Stop[27375]
+08/21/2020 15:48:05  NetworkLoad.CategoriesViewModel[15].Stop[27375]
+08/21/2020 15:48:05  DiagnosticsDataNetworkDownload[17].Stop[27718]
+08/21/2020 15:48:05  FeedbackMonitoringSubmit: Msg[DiagnosticsDataNetworkDownload] DiagnosticsSavedLocally Prev[True-0] Next[True-723]
+08/21/2020 15:48:06  NavigateToPage[24].Start[29052]
+08/21/2020 15:48:09  OnNavigatedFrom.SIUF_ErrorPage.Start[29547]
+08/21/2020 15:48:09  OnNavigatedFrom.SIUF_ErrorPage.Stop[29547]
+08/21/2020 15:48:09  OnNavigatedTo.HomePage[25].Start[29547]
+08/21/2020 15:48:09  OnNavigatedTo.HomePage[25].Stop[29548]
+08/21/2020 15:48:09  RunCommandList [2]
+08/21/2020 15:48:09  NavigateToPage[24].Stop[29550]
+08/21/2020 15:48:09  Device[Desktop] Auth[False] Network[True] Settings[False] Tent[False-NoTentInfo] HasRanChecks[False] RS4+[False]
+08/21/2020 15:48:09  GetStartupState [None]
+08/21/2020 15:48:09  ContentPage_Loaded.HomePage.Start[30295]
+08/21/2020 15:48:09  ContentPage_Loaded.HomePage.Stop[30295]
+08/21/2020 15:48:09  InsidersHubNavigationInfo, HomePage
+08/21/2020 15:48:09  LoadHubSectionsAsync.Start[30299]
+08/21/2020 15:48:09  Loading FeedbackHub.ViewModels.Home.MainPageViewModel based on network status - Connected
+08/21/2020 15:48:09  CommonAnnouncementsHubViewModel: Not going to load data because data refresh condition was not met
+08/21/2020 15:48:09  QuestsHubViewModel: Not going to load data because data refresh condition was not met
+08/21/2020 15:48:09  LoadDataAsync.ResourcesHubViewModel[26].Start[30511]
+08/21/2020 15:48:09  Loading ResourcesHubViewModel based on network status[Connected] strategy[LoadFromCacheBackgroundDownload]
+08/21/2020 15:48:09  ResourcesHubViewModel: Loading data from persistence store. InitialContent[False]
+08/21/2020 15:48:09  LoadDataAsync.ProfileViewModel.Start[30511]
+08/21/2020 15:48:09  Awaiting task[4][LoadDataAsync.ProfileViewModel.LockAsync]
+08/21/2020 15:48:09  Completing task[4][LoadDataAsync.ProfileViewModel.LockAsync]
+08/21/2020 15:48:09  LoadNewsfeedElapsedTime, 211
+08/21/2020 15:48:09  Finished loading FeedbackHub.ViewModels.Home.MainPageViewModel based result - Complete
+08/21/2020 15:48:09  UpdateUserStatus.Start[30537]
+08/21/2020 15:48:09  RefreshProfilePicture.Start[30573]
+08/21/2020 15:48:09  RefreshProfilePicture - Resetting profile picture due to unauthenticated user...
+08/21/2020 15:48:09  RefreshProfilePicture.Stop[30574]
+08/21/2020 15:48:09  UpdateUserStatus.Stop[30574]
+08/21/2020 15:48:09  LoadHubSectionsAsync.Stop[30574]
+08/21/2020 15:48:09  Feedback Hub: CachedBuild[10.0.18363.959.amd64fre.19h1_release.190318-1202]
+08/21/2020 15:48:09  Feedback Hub: CachedBuild[10.0.18363.959.amd64fre.19h1_release.190318-1202]
+08/21/2020 15:48:09  ProfileViewModel: Load data mutex obtained, waiting for load
+08/21/2020 15:48:09  ProfileViewModel: Not going to load data because data refresh condition was not met
+08/21/2020 15:48:09  Awaiting task[6][LoadDataAsync.ProfileViewModel.LoadDataAsync]
+08/21/2020 15:48:09  Completing task[6][LoadDataAsync.ProfileViewModel.LoadDataAsync]
+08/21/2020 15:48:09  LoadDataAsync.ProfileViewModel.Stop[30761]
+08/21/2020 15:48:09  ResourcesHubViewModel: Updating DataCache for VM from [PilotContracts.DataContracts.InsiderHubContentV4] to [PilotContracts.DataContracts.InsiderHubContentV4]
+08/21/2020 15:48:09  ResourcesHubViewModel: Updating data in the view
+08/21/2020 15:48:09  ResourcesHubViewModel: Successfully refreshed data
+08/21/2020 15:48:09  ResourcesHubViewModel: Downloading network data async in background
+08/21/2020 15:48:09  NetworkLoad.ResourcesHubViewModel[27].Start[32206]
+08/21/2020 15:48:09  PersistToDiskAsync.InsiderHubContent.json.Start[32206]
+08/21/2020 15:48:09  Finished loading ResourcesHubViewModel based result - Complete
+08/21/2020 15:48:09  LoadDataAsync.ResourcesHubViewModel[26].Stop[32207]
+08/21/2020 15:48:09  ContentPage_Unloaded.SIUF_ErrorPage.Start[32309]
+08/21/2020 15:48:09  ContentPage_Unloaded.SIUF_ErrorPage.Stop[32309]
+08/21/2020 15:48:10  PersistToDiskAsync.InsiderHubContent.json.Stop[32967]
+08/21/2020 15:48:10  NetworkLoad.ResourcesHubViewModel[27].Stop[32970]
+08/21/2020 15:48:20  OnSuspending: extended execution result [Allowed]
+08/21/2020 15:48:20  Procesesing inline upvote feedback queue on suspending

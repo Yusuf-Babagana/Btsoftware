@@ -1,0 +1,4 @@
+[2020-08-05 15:11:31.107] [renderer1] [warning] Workbench did not finish loading in 10 seconds, that might be a problem that should be reported.
+[2020-08-05 15:11:32.901] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2657:21)
+    at SimpleURLLoaderWrapper.emit (events.js:203:13)

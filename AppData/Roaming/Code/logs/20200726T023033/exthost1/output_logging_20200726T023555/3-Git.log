@@ -1,0 +1,58 @@
+Looking for git in: C:\Program Files\Git\cmd\git.exe
+Using git 2.21.0.windows.1 from C:\Program Files\Git\cmd\git.exe
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: c:\Users\Userpc\Desktop\myblog
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :Flask-Tutorial/hello.py
+> git ls-files --stage -- C:\Users\Userpc\Desktop\myblog\Flask-Tutorial\hello.py
+> git cat-file -s 2cbb8827c78ec54838de5e9f105ebe6526428126
+> git show --textconv :Flask-Tutorial/templates/about.html
+> git ls-files --stage -- C:\Users\Userpc\Desktop\myblog\Flask-Tutorial\templates\about.html
+> git cat-file -s b6e11a2d9caa94a3fcee642be488e554a0b2d294
+> git show --textconv :Flask-Tutorial/hello.py
+> git ls-files --stage -- C:\Users\Userpc\Desktop\myblog\Flask-Tutorial\hello.py
+> git cat-file -s 2cbb8827c78ec54838de5e9f105ebe6526428126
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git show --textconv :Flask-Tutorial/templates/about.html
+> git ls-files --stage -- C:\Users\Userpc\Desktop\myblog\Flask-Tutorial\templates\about.html
+> git cat-file -s b6e11a2d9caa94a3fcee642be488e554a0b2d294
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :templates/about.html
+> git ls-files --stage -- C:\Users\Userpc\Desktop\myblog\templates\about.html
+> git show --textconv :templates/home.html
+> git ls-files --stage -- C:\Users\Userpc\Desktop\myblog\templates\home.html
+> git show --textconv :templates/layout.html
+> git ls-files --stage -- C:\Users\Userpc\Desktop\myblog\templates\layout.html

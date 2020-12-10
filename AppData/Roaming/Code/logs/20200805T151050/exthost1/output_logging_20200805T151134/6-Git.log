@@ -1,0 +1,18 @@
+Looking for git in: C:\Program Files\Git\cmd\git.exe
+Using git 2.21.0.windows.1 from C:\Program Files\Git\cmd\git.exe
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: c:\Users\Userpc\Desktop\examp
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git check-ignore -v -z --stdin
+> git rev-parse master
+> git check-ignore -v -z --stdin
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :guestbook.py
+> git ls-files --stage -- C:\Users\Userpc\Desktop\examp\guestbook.py
+> git cat-file -s c8f451046369b630ed1e713f290f80fc56044309

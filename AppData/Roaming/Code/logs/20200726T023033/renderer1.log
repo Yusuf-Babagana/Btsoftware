@@ -1,0 +1,9 @@
+[2020-07-26 02:33:27.410] [renderer1] [warning] Workbench did not finish loading in 10 seconds, that might be a problem that should be reported.
+[2020-07-26 02:33:44.953] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2657:21)
+    at SimpleURLLoaderWrapper.emit (events.js:203:13)
+[2020-07-26 02:35:56.845] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2657:21)
+    at SimpleURLLoaderWrapper.emit (events.js:203:13)
+[2020-07-26 02:36:32.993] [renderer1] [warning] UNRESPONSIVE extension host, 'ms-python.python' took 100% of 418.896ms, saved PROFILE here: 'C:\Users\Userpc\AppData\Local\Temp\exthost-be2194.cpuprofile' [{"id":"ms-python.python","total":418558,"percentage":100}]
+[2020-07-26 02:48:38.198] [renderer1] [warning] UNRESPONSIVE extension host, 'vscode.emmet' took 97% of 1569.383ms, saved PROFILE here: 'C:\Users\Userpc\AppData\Local\Temp\exthost-4d327c.cpuprofile' [{"id":"self","total":46191,"percentage":3},{"id":"vscode.emmet","total":1522863,"percentage":97}]
